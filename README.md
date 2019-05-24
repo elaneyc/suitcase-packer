@@ -25,7 +25,7 @@ specific date. This is the method that other classes will call on.
 Internally generates a map that contains airport codes as keys and its weather
 hashtable as values. Takes the weather hashtables for each airport from the
 CSVReader.
-## CSVReade.java
+## CSVReader.java
 Helps manipulates CSV files.
 Creates a list of csv files & a list of strings where each string contains all the lines
 in a single csv file. Generates a hashtable for a given CSV file where the date is the key and the
