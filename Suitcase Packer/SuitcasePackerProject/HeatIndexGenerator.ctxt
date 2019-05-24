@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HeatIndexGenerator
+comment1.params=date\ avgTemp
+comment1.target=HeatIndexGenerator(java.lang.String,\ int)
+comment1.text=\n\ constructor\ for\ objects\ of\ HeatIndexGenerator\n\ \n\ @param\ date\ \ \ the\ date\ \n\ @param\ avgTemp\ \ \ the\ average\ temperature\ on\ date\n
+comment2.params=
+comment2.target=int\ getHeatIndex()
+comment2.text=\n\ returns\ the\ related\ heat\ index\ to\ the\ temperature\ and\ season\n\ \n\ @return\ \ \ the\ related\ heat\ index\ to\ the\ temperature\ and\ season\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ main\ for\ testing\n
+numComments=4

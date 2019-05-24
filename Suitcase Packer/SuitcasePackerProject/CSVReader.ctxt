@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CSVReader
+comment1.params=path
+comment1.target=java.util.List\ getFile(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ list\ of\ csv\ files\r\n\ \r\n\ @param\ String\ file\ path\r\n\ @return\ List\ of\ Objects\ of\ type\ File\r\n
+comment2.params=fileName
+comment2.target=java.util.List\ getCSVLines(java.io.File)
+comment2.text=\r\n\ Returns\ a\ list\ of\ strings\ where\ each\ string\ contains\ all\ the\ lines\r\n\ in\ a\ single\ csv\ file\r\n\ \r\n\ @param\ File\ fileName\r\n\ @return\ List\ of\ Objects\ of\ type\ String\r\n
+comment3.params=csvLines
+comment3.target=java.util.Hashtable\ getWeatherTable(java.util.List)
+comment3.text=\r\n\ Generates\ a\ hashtable\ for\ a\ given\ CSV\ file\ where\ the\ date\ is\ the\ key\ and\ average\ temperature\r\n\ is\ the\ value\r\n\ \r\n\ @param\ List<String>\ List\ of\ Strings\ of\ lines\ in\ a\ CSV\ file\r\n\ @return\ Hashtable\ that\ uses\ a\ date\ as\ the\ key\ and\ returns\ the\ average\ temperature\ \r\n
+numComments=4

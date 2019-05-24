@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WeatherData
+comment1.params=
+comment1.target=WeatherData()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=fileList
+comment2.target=java.util.Map\ createAirportTables(java.util.List)
+comment2.text=\r\n\ Creates\ a\ map\ whose\ key\ is\ an\ airport\ code\ and\ value\ are\ hashtables<date,\ average\ temperature>)\r\n\ \r\n\ @param\ List<File>\ fileList\ taken\ from\ CSVReader\r\n\ @return\ Map\ of\ Airport\ Hashtables\r\n
+comment3.params=airport\ date
+comment3.target=int\ getAvgTemp(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Returns\ the\ average\ temperature\ at\ a\ specific\ airport\ on\ a\ specific\ date\r\n\ \r\n\ @param\ airport\ \r\n\ @param\ date\ (m-d)\r\n\ @return\ int\ average\ temperature\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Testing\ \r\n\ \r\n\ @param\ String[]\ args\r\n
+numComments=5

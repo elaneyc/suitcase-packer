@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SeasonGenerator
+comment1.params=date
+comment1.target=SeasonGenerator(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SeasonGenerator\n\ \n\ @param\ date\ \ \ the\ date\ for\ which\ you\ wish\ to\ determine\ what\ season\ it\ is\n
+comment2.params=
+comment2.target=java.lang.String\ determineSeason()
+comment2.text=\ \n\ returns\ the\ season\ in\ which\ the\ date\ falls\n\ \n\ @return\ \ \ the\ season\ in\ which\ the\ date\ falls\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ main\ for\ testing\ \n
+numComments=4
